@@ -38,4 +38,31 @@
             img => 'carlos',
         ],
     ];
+
+    $menuItems = [
+        'club-sandwich' => [
+            title => 'Club Sandwich',
+            price => 11,
+            blurb => 'Bacon..',
+            drink => 'Club Soda',
+        ],
+        'dill-salmon' => [
+            title => 'Lemon &amp; Dill Salmon',
+            price => 18,
+            blurb => 'Salmon..',
+            drink => 'Fancy Wine',
+        ],
+        'super-salad' => [
+            title => 'The Super Salad<sup>&reg;</sup>',
+            price => 34,
+            blurb => 'Veggies..',
+            drink => "Jug o' Water",
+        ],
+        'mexican-barbacoa' => [
+            title => 'Mexican Barbacoa',
+            price => 23,
+            blurb => 'Barbacoa..',
+            drink => 'Beer with a Lime',
+        ],
+    ];
 ?>
