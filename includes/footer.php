@@ -14,11 +14,13 @@
                     1:00pm - 9:00pm<br><br>
                     <em>Friday - Saturday</em><br>
                     4:00pm - 11:00pm<br><br>
-                    <em>Sinday - Monday</em><br>
+                    <em>Sunday - Monday</em><br>
                     Closed<br><br>
+
+                    <?php include('includes/store-hours.php'); ?>
                 </div>
             </div>
-            <small>&copy; 2018 Angelo Luppino</small>
+            <small>&copy;<?php echo date('Y'); ?> <?php echo $companyName; ?> </small>
         </div>
     </div>
 

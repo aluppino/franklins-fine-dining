@@ -1,4 +1,5 @@
 <?php
+    $companyName = "Angelo's Pizza";
     include('includes/arrays.php');
 ?>
 
