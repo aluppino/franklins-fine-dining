@@ -5,7 +5,9 @@
 
     <div id="menu-items" class="cf">
         <h1>Our Delicious Menu</h1>
-        <p>Like our team, our menu is very small &mdash; but dang, does it ever pack a punch!</p>
+        <p>
+            Like our team, our menu is very small &mdash; but dang, does it ever pack a punch!
+        </p>
         <p><em>Click any menu item to learn more about it.</em></p>
         <hr>
         <ul>
