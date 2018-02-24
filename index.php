@@ -1,5 +1,5 @@
 <?php
-     define('TITLE', "Angelo's Pizza");
+    define('TITLE', "Angelo's Pizza");
     include('includes/header.php');
 ?>
 
